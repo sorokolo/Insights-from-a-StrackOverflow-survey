@@ -13,7 +13,13 @@ matplotlib,pandas and numpy.
 Files in the repo : 
 This repo contains 3 files, the readme file, the notebook, the dataset used and a licence file
 
-Summary of the results
+Summary of the results :
 This sort analysis made me understand that, your country, your sex and your formal education greatly affect you, especially when it comes to salary. So depending on your “profile”, you probably have your own experience as a developer.
 
-acknowledgment
+Licence:
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+Acknowledgments :
+Udacity
+Inspiration
