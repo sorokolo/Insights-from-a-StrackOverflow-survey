@@ -1,4 +1,4 @@
-# Udacity_Project1_StackOverflowSurvey
+# Insights from a StrackOverflow survey
 
 **Author** 
 Soro Kolotioloma
