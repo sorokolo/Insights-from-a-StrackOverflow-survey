@@ -4,8 +4,7 @@
 Soro Kolotioloma
 
 **Overview**
-This is respo that contains analysis done on a StackOverflow survey.
-In this notebook, I was more focusing on analysing the how factors like the country, the gender and the formal education can affect a developer.
+This is a repo that contains analysis done on a StackOverflow survey. In this notebook, I was more focusing on analyzing how factors like the country, gender, and formal education can affect a developer.
 
 **Libraries used**
 To successfully run this repo, download the the notebook into your local machine, or an online editor and also make sure you are the following python libraries installed:
